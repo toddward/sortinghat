@@ -3,7 +3,8 @@
     "bravery": 10,
     "loyalty": 7,
     "wit": 5,
-    "cunning": 2
+    "cunning": 2,
+    "house": "gryffindor"
   },
   {
     "name": "Katie Bell",
@@ -199,7 +200,8 @@
     "bravery": 10,
     "loyalty": 7,
     "wit": 5,
-    "cunning": 2
+    "cunning": 2,
+    "house": "hufflepuff"
   },
   {
     "name": "Sirius Black",

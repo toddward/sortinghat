@@ -2,13 +2,13 @@ import { Component, OnInit } from "@angular/core";
 import { Http, Response } from "@angular/http";
 import { Observable } from "rxjs/Observable";
 
-export type Student = {
-  name: String;
-  bravery: Number;
-  loyalty: Number;
-  wit: Number;
-  cunning: Number;
-};
+// export type Student = {
+//   name: String;
+//   bravery: Number;
+//   loyalty: Number;
+//   wit: Number;
+//   cunning: Number;
+// };
 
 @Component({
   selector: "app-root",
@@ -17,7 +17,7 @@ export type Student = {
 })
 export class AppComponent implements OnInit {
   title = "Hogwarts Sorting Hat";
-
+  arrayData: any;
   constructor(private http: Http) {}
 
   public getJSON(): Observable<any> {
@@ -26,15 +26,14 @@ export class AppComponent implements OnInit {
 
   ngOnInit() {
     this.getJSON().subscribe(data => {
-      // console.log(data._body);
-      var arrayData = JSON.parse(data._body);
-      arrayData.forEach(element => {
-        console.log(element);
-      });
+      this.arrayData = JSON.parse(data._body);
     });
   }
 
   processSort() {
-    alert("button was clicked");
+    this.arrayData.push({ "name": "Todd", "house": "slytherin" });
+    setTimeout(() => {
+      this.arrayData.push({ "name": "Wardzinski", "house": "slytherin" });
+    }, 5000);
   }
 }

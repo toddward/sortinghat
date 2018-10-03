@@ -7,6 +7,41 @@
 </div>
 <div style="text-align: center">
   <button mat-stroked-button (click)="processSort()">Sort The Students</button>
+  <br />
+  <div style="width: 100%">
+  <div style="float: left; width: 25%; padding: 10px;">
+    <h3>House Gryffindor</h3>
+    <section *ngFor="let item of arrayData" >
+      <span *ngIf="item.house === 'gryffindor'" >
+        {{item.name}}
+      </span>
+    </section>
+  </div>
+  <div style="float: left; width: 25%; padding: 10px;">
+    <h3>House Slytherin</h3>
+    <section *ngFor="let item of arrayData" >
+      <span *ngIf="item.house === 'slytherin'" >
+        {{item.name}}
+      </span>
+    </section>
+  </div>
+  <div style="float: left; width: 25%; padding: 10px;">
+    <h3>House Ravenclaw</h3>
+    <section *ngFor="let item of arrayData" >
+      <span *ngIf="item.house === 'ravenclaw'" >
+        {{item.name}}
+      </span>
+    </section>
+  </div>
+  <div style="float: left; width: 25%; padding: 10px;">
+    <h3>House Hufflepuff</h3>
+    <section *ngFor="let item of arrayData" >
+      <span *ngIf="item.house === 'hufflepuff'" >
+        {{item.name}}
+      </span>
+    </section>
+  </div>
+  </div>
 </div>
 
 <router-outlet></router-outlet>
