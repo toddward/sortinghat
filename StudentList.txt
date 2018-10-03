@@ -1,0 +1,126 @@
+ {
+  "name": "harry potter",
+  "bravery" : 10,
+  "loyalty": 8,
+  "wit" : 5.
+  "cunning": 2
+}
+
+basically, anything over 8 chooses House
+
+==Gryffindor House==
+Euan Abercrombie
+Katie Bell
+Lavender Brown
+Ritchie Coote
+Colin Creevey
+Dennis Creevey
+Seamus Finnigan
+Hermione Granger
+Angelina Johnson
+Lee Jordan
+Andrew Kirke
+Neville Longbottom
+Natalie McDonald
+Mary Macdonald
+Cormac McLaggen
+Parvati Patil
+Jimmy Peakes
+Harry Potter
+Demelza Robins
+Jack Sloper
+Alicia Spinnet
+Dean Thomas
+Romilda Vane
+Fred Weasley
+George Weasley
+Ginny Weasley
+Percy Weasley
+Ron Weasley
+Oliver Wood
+
+--Past House members--
+Sirius Black
+Albus Dumbledore
+Rubeus Hagrid
+Remus Lupin
+Minerva McGonagall
+Peter Pettigrew
+James Potter
+Lily Potter (née Evans)
+Bill Weasley
+Charlie Weasley
+Arthur Weasley
+Molly Weasley
+
+==Hufflepuff House==
+Hannah Abbott
+Susan Bones
+Eleanor Branstone
+Cadwallader
+Owen Cauldwell
+Cedric Diggory
+Justin Finch-Fletchley
+Ernie Macmillan
+Laura Madley
+Eloise Midgeon
+Zacharias Smith
+Pomona Sprout
+Stebbins
+Summerby
+Summers
+Nymphadora Tonks
+Kevin Whitby
+Rose Zeller
+
+==Ravenclaw House==
+Stewart Ackerley
+Marcus Belby
+Terry Boot
+Mandy Brocklehurst
+Cho Chang
+Eddie Carmichael
+Penelope Clearwater
+Michael Corner
+Roger Davies
+Marietta Edgecombe
+Fawcett
+Filius Flitwick
+Anthony Goldstein
+Luna Lovegood
+Padma Patil
+Orla Quirke
+Lisa Turpin
+
+==Slytherin House==
+Avery
+Malcolm Baddock
+Regulus Black
+Miles Bletchley
+Bole
+Millicent Bullstrode
+Vincent Crabbe
+Derrick
+Marcus Flint
+Gregory Goyle
+Harper
+Terence Higgs
+Bellatrix Lestrange
+Rabastan Lestrange
+Rodolphus Lestrange
+Abraxas Malfoy
+Draco Malfoy
+Lucius Malfoy
+Narcissa Malfoy
+Montague
+Theodore Nott
+Pansy Parkinson
+Graham Pritchard
+Adrian Pucey
+Tom Marvolo Riddle
+Horace Slughorn
+Severus Snape
+Vaisey
+Urquhart
+Warrington
+Blaise Zabini

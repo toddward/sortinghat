@@ -1,0 +1,749 @@
+[{
+    "name": "Euan Abercrombie",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Katie Bell",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Lavender Brown",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Ritchie Coote",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Colin Creevey",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Dennis Creevey",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Seamus Finnigan",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Hermione Granger",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Angelina Johnson",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Lee Jordan",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Andrew Kirke",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Neville Longbottom",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Natalie McDonald",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Mary Macdonald",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Cormac McDonald",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Parvati Patil",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Jimmy Peakes",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Harry Potter",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Demelza Robins",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Jack Sloper",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Alicia Spinnet",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Dean Thomas",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Romilda Vane",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Fred Weasley",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "George Weasley",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Ginny Weasley",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Percy Weasley",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Ron Weasley",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Oliver Wood",
+    "bravery": 10,
+    "loyalty": 7,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Sirius Black",
+    "bravery": 10,
+    "loyalty": 8,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Albus Dumbledore",
+    "bravery": 10,
+    "loyalty": 8,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Rubeus Hagrid",
+    "bravery": 10,
+    "loyalty": 8,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Remus Lupin",
+    "bravery": 10,
+    "loyalty": 8,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Minerva McGonagall",
+    "bravery": 10,
+    "loyalty": 8,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Peter Pettigrew",
+    "bravery": 10,
+    "loyalty": 8,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "James Potter",
+    "bravery": 10,
+    "loyalty": 8,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Lily Potter",
+    "bravery": 10,
+    "loyalty": 8,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Bill Weasley",
+    "bravery": 10,
+    "loyalty": 8,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Charlie Weasley",
+    "bravery": 10,
+    "loyalty": 8,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Arthur Weasley",
+    "bravery": 10,
+    "loyalty": 8,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Molly Weasley",
+    "bravery": 10,
+    "loyalty": 8,
+    "wit": 5,
+    "cunning": 2
+  },
+  {
+    "name": "Hannah Abbott",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Susan Bones",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Eleanor Branstone",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Cadwallader",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Owen Cauldwell",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Cedric Diggory",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Justin Finch",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Ernie Macmillan",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Laura Madley",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Eloise Midgeon",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Zacharias Smith",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Pomona Sprout",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Stebbins",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Summerby",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Summers",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Nymphadora Tonks",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Kevin Whitby",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Rose Zeller",
+    "bravery": 4,
+    "loyalty": 4,
+    "wit": 7,
+    "cunning": 2
+  },
+  {
+    "name": "Stewart Ackerley",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Marcus Belby",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Terry Boot",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Mandy Brocklehurst",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Cho Chang",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Eddie Carmichael",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Penelope Clearwater",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Michael Corner",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Roger Davies",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Marietta Edgecombe",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Fawcett",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Filius Flitwick",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Anthony Goldstein",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Luna Lovegood",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Padma Patil",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Orla Quirke",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Lisa Turpin",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Avery",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Malcolm Baddock",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Regulus Black",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Miles Bletchley",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Bole",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Millicent Bullstrode",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Vincent Crabbe",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Derrick",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Marcus Flint",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Gregory Goyle",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Harper",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Terence Higgs",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Bellatrix Lestrange",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Rabastan Lestrange",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Rodolphus Lestrange",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Abraxas Malfoy",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Draco Malfoy",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Lucius Malfoy",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Narcissa Malfoy",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Montague",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Theodore Nott",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Pansy Parkinson",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Graham Pritchard",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Adrian Pucey",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Tom Marvolo Riddle",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Horace Slughorn",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Severus Snape",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Vaisey",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Urquhart",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Warrington",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  },
+  {
+    "name": "Blaise Zabini",
+    "bravery": 3,
+    "loyalty": 6,
+    "wit": 5,
+    "cunning": 8
+  }]
