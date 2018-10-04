@@ -2,19 +2,12 @@ import { Component, OnInit } from "@angular/core";
 import { Http, Response } from "@angular/http";
 import { Observable } from "rxjs/Observable";
 
-// export type Student = {
-//   name: String;
-//   bravery: Number;
-//   loyalty: Number;
-//   wit: Number;
-//   cunning: Number;
-// };
-
 @Component({
   selector: "app-root",
   templateUrl: "./app.component.html",
   styleUrls: ["./app.component.css"]
 })
+
 export class AppComponent implements OnInit {
   title = "Hogwarts Sorting Hat";
   arrayData: any;
@@ -31,9 +24,15 @@ export class AppComponent implements OnInit {
   }
 
   processSort() {
-    this.arrayData.push({ "name": "Todd", "house": "slytherin" });
-    setTimeout(() => {
-      this.arrayData.push({ "name": "Wardzinski", "house": "slytherin" });
-    }, 5000);
+   for (let index = 0; index < this.arrayData.length; index++) {
+      const element = this.arrayData[index];
+      this.http.post('http://localhost:3000', element).subscribe(
+        res => {
+          var house = res.json().house;
+          console.log(index + ' ' + house);
+          this.arrayData[index].house = house;
+        }
+      );
+    }
   }
 }
