@@ -14,7 +14,7 @@ export class AppComponent implements OnInit {
   constructor(private http: Http) {}
 
   public getJSON(): Observable<any> {
-    return this.http.get("../assets/StudentList.json");
+    return this.http.get("../assets/RandomStudentList.json");
   }
 
   ngOnInit() {
