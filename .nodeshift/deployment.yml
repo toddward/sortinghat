@@ -1,0 +1,23 @@
+spec:
+  template:
+    metadata:
+      labels:
+        app: hogwarts
+        name: hogwarts
+      annotations:
+        sidecar.istio.io/inject: "true"
+    spec:
+      containers:
+        - name: hogwarts
+          env:
+          ports:
+          - containerPort: 8080
+            protocol: TCP
+            name: http
+          resources:
+          limits:
+            cpu: 200m
+            memory: 400Mi
+          requests:
+            cpu: 100m
+            memory: 200Mi

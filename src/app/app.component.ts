@@ -26,7 +26,7 @@ export class AppComponent implements OnInit {
   processSort() {
    for (let index = 0; index < this.arrayData.length; index++) {
       const element = this.arrayData[index];
-      this.http.post('http://localhost:3000', element).subscribe(
+      this.http.post('http://sorting-hat-demojam.127.0.0.1.nip.io/api/v1/sort', element).subscribe(
         res => {
           var house = res.json().house;
           console.log(index + ' ' + house);
